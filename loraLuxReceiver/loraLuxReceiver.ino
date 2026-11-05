@@ -1,3 +1,16 @@
+/*****************************************************************
+  Projekt:  loraLux
+  
+  Dieses Projekt wurde innerhalb der 
+  Lora-AG mit dem DARC E-13 erstellt.
+  Website DARC E-13:
+  https://www.amateurfunk-im-alstertal.de/
+
+  Copyright (c) 2026 Astr073
+  Licensed under the MIT License - see LICENSE file for details.
+  Github Repository: https://github.com/Astr073/loraLux
+*****************************************************************/
+
 #include <SPI.h>
 #include "SSD1306Wire.h"
 #include <LoRa.h>
