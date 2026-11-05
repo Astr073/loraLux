@@ -1,10 +1,7 @@
 #include <SPI.h>
+#include <SSD1306Wire.h>
 #include <LoRa.h>
 #include <string.h>
-#include "../lib/SSD1306Wire.h"
-#include "../lib/OLEDDisplay.h"
-
-
 
 SSD1306Wire display(0x3c, SDA, SCL);
 
