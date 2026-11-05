@@ -16,4 +16,10 @@ Alle Werte dazwischen werden als Mischwerte von blau und rot abgebildet.
 
 ### loraReceiver
 
+![Schaltplan](images/lora_lux_receiver_bb.png)
+
+
 ### loraSender
+
+![Schaltplan](images/lora_lux_sender_bb.png)
+
