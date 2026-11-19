@@ -2,7 +2,7 @@
 
 <img src="images/darc-logo_hu_72068f3e06ddeb02.jpg" alt="DARC E13" width="180" align="left">
 
-Dieses Projekt wurde innerhalb der Lora-AG mit dem DARC E-13 erstellt.
+Dieses Projekt wurde innerhalb der Lora-AG mit dem DARC OV E-13 erstellt.
 
 Internetseite vom DARC E-13: https://www.amateurfunk-im-alstertal.de/
 
